@@ -2,13 +2,14 @@
 title: "Yakuza Kiwami"
 date: 2017-08-29
 draft: false
+weight: 2
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/834530/header.jpg"
+  alt: "Yakuza Kiwami"
 tags: ["Kiryu", "Majima", "Kamurocho", "PS4", "PC", "Xbox", "Kiwami", "Remake"]
 categories: ["Games"]
 summary: "A ground-up remake of the original 2005 Yakuza, rebuilt in the Dragon Engine's predecessor with expanded content, new substories, and the legendary Majima Everywhere system."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/834530/header.jpg"
-  alt: "Yakuza Kiwami"
 ---
 
 ## Overview

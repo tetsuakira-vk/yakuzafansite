@@ -2,6 +2,10 @@
 title: "Yakuza 3 Remastered"
 date: 2019-08-20
 draft: false
+weight: 4
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1088710/header.jpg"
+  alt: "Yakuza 3 Remastered"
 tags: ["Kiryu", "Okinawa", "Kamurocho", "PS4", "PC", "Xbox", "Remastered"]
 categories: ["Games"]
 summary: "Kiryu trades Kamurocho for Okinawa, running an orphanage with Haruka — until the world of the yakuza drags him back. The most emotionally grounded entry in the Kiryu saga."

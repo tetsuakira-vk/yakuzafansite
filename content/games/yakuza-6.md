@@ -2,6 +2,10 @@
 title: "Yakuza 6: The Song of Life"
 date: 2018-05-08
 draft: false
+weight: 7
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1388590/header.jpg"
+  alt: "Yakuza 6: The Song of Life"
 tags: ["Kiryu", "Haruka", "Onomichi", "Kamurocho", "PS4", "PC", "Dragon Engine"]
 categories: ["Games"]
 summary: "The conclusion of the Kiryu saga. Yakuza 6 strips the series back to a single protagonist and a deeply personal story about family, sacrifice, and what it means to finally let go."

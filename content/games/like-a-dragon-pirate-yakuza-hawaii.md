@@ -2,6 +2,10 @@
 title: "Like a Dragon: Pirate Yakuza in Hawaii"
 date: 2025-02-21
 draft: false
+weight: 12
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/3061810/header.jpg"
+  alt: "Like a Dragon: Pirate Yakuza in Hawaii"
 tags: ["Majima", "Rich Komeki", "Hawaii", "PS4", "PS5", "PC", "Xbox", "Action RPG", "Spin-off"]
 categories: ["Games"]
 summary: "Goro Majima washes up on a Hawaiian beach with no memory, a treasure map, and an inexplicable new destiny: pirate king. The most unhinged spin-off in the series — and one of its most joyful."

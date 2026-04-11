@@ -2,6 +2,10 @@
 title: "Lost Judgment"
 date: 2021-09-24
 draft: false
+weight: 21
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2058190/header.jpg"
+  alt: "Lost Judgment"
 tags: ["Takayuki Yagami", "Masaharu Kaito", "Kamurocho", "Yokohama", "School", "PS4", "PS5", "PC", "Xbox", "Spin-off"]
 categories: ["Games"]
 summary: "Yagami returns in a grander, darker sequel that adds Yokohama as a second city and tackles bullying, institutional corruption, and the limits of the law."

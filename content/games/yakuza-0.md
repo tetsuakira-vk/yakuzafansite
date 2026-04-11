@@ -2,6 +2,10 @@
 title: "Yakuza 0"
 date: 2024-01-01
 draft: false
+weight: 1
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg"
+  alt: "Yakuza 0"
 tags: ["Yakuza 0", "Kiryu", "Majima", "Kamurocho", "Sotenbori", "PS4", "PC", "Xbox", "Prequel"]
 categories: ["Games"]
 summary: "The prequel that introduced millions of players to the series. Set in 1988 Japan, Yakuza 0 is the essential starting point for any newcomer."

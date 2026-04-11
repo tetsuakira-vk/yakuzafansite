@@ -2,13 +2,14 @@
 title: "Like a Dragon Gaiden: The Man Who Erased His Name"
 date: 2023-11-09
 draft: false
+weight: 10
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2375550/header.jpg"
+  alt: "Like a Dragon Gaiden: The Man Who Erased His Name"
 tags: ["Kiryu", "Majima", "Sotenbori", "Akame Network", "PS4", "PS5", "PC", "Xbox", "Action RPG"]
 categories: ["Games"]
 summary: "Kiryu returns as a covert agent operating under a false identity, bridging the gap between Yakuza 6 and Infinite Wealth in a focused, brilliantly paced spin-off."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2064650/header.jpg"
-  alt: "Like a Dragon Gaiden: The Man Who Erased His Name"
 ---
 
 ## Overview

@@ -2,13 +2,14 @@
 title: "Yakuza Kiwami 2"
 date: 2018-08-28
 draft: false
+weight: 3
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/927380/header.jpg"
+  alt: "Yakuza Kiwami 2"
 tags: ["Kiryu", "Ryuji Goda", "Kamurocho", "Sotenbori", "PS4", "PC", "Xbox", "Kiwami", "Remake"]
 categories: ["Games"]
 summary: "A full remake of Yakuza 2, built from the ground up in the Dragon Engine. Introduces Ryuji Goda — the Dragon of Kansai — and sends Kiryu to Osaka to prevent a Yakuza war."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/927380/header.jpg"
-  alt: "Yakuza Kiwami 2"
 ---
 
 ## Overview

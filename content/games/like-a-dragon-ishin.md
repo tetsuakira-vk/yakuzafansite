@@ -2,13 +2,14 @@
 title: "Like a Dragon: Ishin!"
 date: 2023-02-21
 draft: false
+weight: 9
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1805480/header.jpg"
+  alt: "Like a Dragon: Ishin!"
 tags: ["Kiryu", "Majima", "Ryoma Sakamoto", "Historical", "Kochi", "Kyoto", "PS4", "PS5", "PC", "Xbox", "Remake"]
 categories: ["Games"]
 summary: "A historical action RPG set in 1860s Japan during the Bakumatsu period. Familiar faces from the series play new roles in a story of samurai, revolution, and honour."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1841570/header.jpg"
-  alt: "Like a Dragon: Ishin!"
 ---
 
 ## Overview

@@ -2,6 +2,10 @@
 title: "Judgment"
 date: 2019-06-25
 draft: false
+weight: 20
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2058180/header.jpg"
+  alt: "Judgment"
 tags: ["Takayuki Yagami", "Masaharu Kaito", "Kamurocho", "PS4", "PS5", "PC", "Xbox", "Spin-off"]
 categories: ["Games"]
 summary: "A crime thriller spin-off built in the Dragon Engine, following a disgraced defence attorney turned private detective investigating a serial murder case in Kamurocho."

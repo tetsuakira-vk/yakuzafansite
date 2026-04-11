@@ -2,6 +2,10 @@
 title: "Yakuza 5 Remastered"
 date: 2019-12-10
 draft: false
+weight: 6
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1105510/header.jpg"
+  alt: "Yakuza 5 Remastered"
 tags: ["Kiryu", "Saejima", "Akiyama", "Haruka", "Shinada", "PS4", "PC", "Xbox", "Remastered"]
 categories: ["Games"]
 summary: "The most sprawling entry in the Kiryu saga — five protagonists, five cities, and a story that stretches across Japan. Yakuza 5 is the series at peak ambition."

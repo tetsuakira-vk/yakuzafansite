@@ -2,9 +2,9 @@
 title: "Like a Dragon: Yakuza (Amazon Prime Video, 2024)"
 date: 2024-10-24
 draft: false
-tags: ["TV Series", "Ichiban Kasuga", "Amazon Prime", "Live Action", "Season 1"]
+tags: ["TV Series", "Kiryu", "Nishikiyama", "Amazon Prime", "Live Action", "Season 1"]
 categories: ["Media"]
-summary: "Amazon Prime Video's live-action adaptation of the Like a Dragon series, following Ichiban Kasuga's story from the streets of Yokohama's Isezaki Ijincho district."
+summary: "Amazon Prime Video's live-action adaptation of the original Yakuza game, starring Ryoma Takeuchi as Kazuma Kiryu and Kento Kaku as Akira Nishikiyama."
 ---
 
 ## Overview
@@ -12,40 +12,49 @@ summary: "Amazon Prime Video's live-action adaptation of the Like a Dragon serie
 | | |
 |---|---|
 | **Network** | Amazon Prime Video |
-| **Release** | October 24, 2024 |
-| **Episodes** | 6 (Season 1) |
-| **Language** | Japanese (with subtitles / dubs) |
-| **Ichiban Kasuga** | Ryoma Takeuchi |
+| **Episodes** | 6 |
+| **Release** | Episodes 1–3: October 24, 2024 · Episodes 4–6: November 1, 2024 |
+| **Language** | Japanese (with subtitles and English dub) |
+| **Kazuma Kiryu** | Ryoma Takeuchi |
+| **Akira Nishikiyama** | Kento Kaku |
+| **Shintaro Kazama** | Toshiaki Karasawa |
+| **Makoto Date** | Subaru Shibutani |
 | **Availability** | Global (Prime Video subscribers) |
 
 ---
 
 ## What Is It?
 
-*Like a Dragon: Yakuza* is a live-action streaming series produced for Amazon Prime Video, adapting the story of **Ichiban Kasuga** — the protagonist of *Yakuza: Like a Dragon* (2020). It is the highest-profile screen adaptation of the franchise to date, with a global simultaneous release and a full English dub alongside the Japanese original.
+*Like a Dragon: Yakuza* is a live-action streaming series adapting the story of the **original Yakuza game** — not the Ichiban era. The show follows **Kazuma Kiryu** walking out of prison after a ten-year sentence, returning to a changed Kamurocho to find the Tojo Clan in chaos, ten billion yen missing, and a young girl named Haruka at the centre of it all.
+
+It is the highest-profile screen adaptation of the franchise to date: six episodes, globally released on Amazon Prime Video with a simultaneous Japanese original and English dub.
 
 ---
 
 ## Story
 
-The first season covers Ichiban Kasuga's origins and his emergence from prison into a changed Yokohama, broadly adapting the early acts of *Yakuza: Like a Dragon*. The show expands the material — new scenes, restructured pacing — rather than directly translating the game. Characters from the game appear in altered contexts, and the conspiracy at the heart of Ijincho is partially reconfigured for a serialised format.
+The series broadly adapts the events of *Yakuza* (2005) and *Yakuza Kiwami* — Kiryu's release from prison, his return to Kamurocho, the missing money, and the unravelling of his friendship with Nishikiyama. The show restructures and expands the source material for serialised television, adding scenes and adjusting timelines rather than directly translating the game beat-for-beat.
+
+**Shintaro Kazama** — Kiryu and Nishikiyama's adoptive father figure, head of the Kazama Family — features as a significant presence, played by the veteran actor **Toshiaki Karasawa**.
 
 ---
 
-## Ryoma Takeuchi as Ichiban
+## The Casting
 
-The casting is the show's critical asset. Ryoma Takeuchi — known in Japan for the *Kamen Rider Build* lead role and several acclaimed dramas — plays Ichiban with the exact combination of charisma and hopeless sincerity the character requires. He physically embodies the JRPG-brain optimism of the game version while finding a naturalistic register that live-action demands.
+**Ryoma Takeuchi** (known for *Kamen Rider Build* and multiple acclaimed Japanese dramas) plays Kiryu with a grounded physicality and quiet intensity. He captures the character's core — the stoicism, the loyalty, the way Kiryu never articulates what he feels — without resorting to imitation of the game performance.
+
+**Kento Kaku** as Nishikiyama is the other critical piece. The series gives their relationship room to breathe, and the deterioration of their brotherhood — which the games compressed into flashback and implication — is the emotional engine the show expands most.
 
 ---
 
 ## Reception
 
-Season 1 was positively received by both the fanbase and general audiences, with praise for Takeuchi's performance and the production's commitment to rendering Ijincho's atmosphere. Criticism centred on pacing in the middle episodes and some significant deviations from the source material that divided game fans.
+Critical reception was mixed. The performances of Takeuchi and Kaku drew consistent praise. Criticisms centred on pacing in the middle episodes, editing inconsistencies, and for dedicated game fans, deviations from the source material. It holds a 5.5/10 on IMDb.
 
-A second season has not been officially confirmed as of early 2025.
+A second season has not been confirmed as of early 2025.
 
 ---
 
 ## For Game Fans
 
-The series works best as a parallel interpretation rather than a replacement. It explores the emotional core of Ichiban's story in ways that complement the game without requiring prior knowledge — but the deeper your familiarity with the source material, the more you'll notice what's been compressed, changed, or cut.
+The series is a parallel telling, not a replacement. It does things the games can't — sustained two-hander scenes between Kiryu and Nishikiyama, a slower build on Kazama's role — while necessarily losing the texture of the original's open world. Best approached as a companion piece rather than a substitute.

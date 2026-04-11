@@ -2,13 +2,14 @@
 title: "Yakuza: Like a Dragon"
 date: 2020-11-10
 draft: false
+weight: 8
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
+  alt: "Yakuza: Like a Dragon"
 tags: ["Ichiban Kasuga", "Nanba", "Adachi", "Ijincho", "PS4", "PS5", "PC", "Xbox", "Turn-Based RPG"]
 categories: ["Games"]
 summary: "A bold reinvention of the series. A new protagonist, a new city, and a completely new combat system inspired by Dragon Quest. The game that opens the door for everyone."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
-  alt: "Yakuza: Like a Dragon"
 ---
 
 ## Overview

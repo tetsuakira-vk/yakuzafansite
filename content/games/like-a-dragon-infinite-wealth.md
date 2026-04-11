@@ -2,13 +2,14 @@
 title: "Like a Dragon: Infinite Wealth"
 date: 2024-01-26
 draft: false
+weight: 11
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/header.jpg"
+  alt: "Like a Dragon: Infinite Wealth"
 tags: ["Ichiban Kasuga", "Kiryu", "Hawaii", "Honolulu", "PS4", "PS5", "PC", "Xbox", "Turn-Based RPG"]
 categories: ["Games"]
 summary: "The two protagonists of the franchise meet in Hawaii for the biggest, most ambitious entry in the series. A story about finding purpose when everything has been taken from you."
 series: ["Yakuza / Like a Dragon"]
-cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/header.jpg"
-  alt: "Like a Dragon: Infinite Wealth"
 ---
 
 ## Overview

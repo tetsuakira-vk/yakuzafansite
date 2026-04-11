@@ -2,6 +2,10 @@
 title: "Yakuza 4 Remastered"
 date: 2019-10-29
 draft: false
+weight: 5
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1105500/header.jpg"
+  alt: "Yakuza 4 Remastered"
 tags: ["Kiryu", "Saejima", "Akiyama", "Tanimura", "Kamurocho", "PS4", "PC", "Xbox", "Remastered"]
 categories: ["Games"]
 summary: "Four protagonists, four stories, one city. Yakuza 4 is the series' most ambitious structural experiment — splitting the narrative across Shun Akiyama, Taiga Saejima, Masayoshi Tanimura, and Kazuma Kiryu."
