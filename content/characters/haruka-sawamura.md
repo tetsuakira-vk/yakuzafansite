@@ -5,6 +5,9 @@ draft: false
 tags: ["Haruka", "Kiryu", "Orphan", "Idol", "Yakuza 3", "Yakuza 5", "Yakuza 6"]
 categories: ["Characters"]
 summary: "Kiryu's ward. The girl who gave the Dragon of Dojima a reason to stop fighting and start living. Her arc across the series is one of its quiet masterpieces."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1388590/library_600x900.jpg"
+  alt: "Yakuza 6: The Song of Life key art"
 ---
 
 ## Overview

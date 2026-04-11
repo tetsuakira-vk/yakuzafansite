@@ -5,6 +5,9 @@ draft: false
 tags: ["Nishikiyama", "Tojo Clan", "Nishikiyama Family", "Antagonist", "Kiryu Saga"]
 categories: ["Characters"]
 summary: "Kiryu's sworn brother. The man whose weakness and pride set the entire Kiryu saga in motion. One of the series' most tragic figures."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/834530/library_600x900.jpg"
+  alt: "Yakuza Kiwami key art"
 ---
 
 ## Overview

@@ -1,0 +1,22 @@
+{{- with site.Params.homeInfoParams }}
+<div class="home-banner">
+  <img
+    src="https://cdn.akamai.steamstatic.com/steam/apps/2072450/library_hero.jpg"
+    alt="Ryu Ga Gotoku Archive"
+    class="home-banner-img"
+    loading="eager"
+  >
+</div>
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content md-content">
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

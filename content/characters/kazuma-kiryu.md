@@ -5,6 +5,9 @@ draft: false
 tags: ["Kiryu", "Dragon of Dojima", "Tojo Clan", "Dojima Family", "Protagonist", "Kiryu Saga"]
 categories: ["Characters"]
 summary: "The Dragon of Dojima. The fourth chairman of the Tojo Clan. The man who has walked away from the yakuza more times than he can count, and returned every time the world needed him to."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2375550/library_600x900.jpg"
+  alt: "Like a Dragon Gaiden key art"
 ---
 
 > *"I'm not going to abandon the people who need me. Not for anything."*

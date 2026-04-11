@@ -5,6 +5,9 @@ draft: false
 tags: ["Ryuji Goda", "Dragon of Kansai", "Omi Alliance", "Antagonist", "Yakuza 2", "Kiwami 2"]
 categories: ["Characters"]
 summary: "The Dragon of Kansai. The only man in the series who meets Kiryu as an outright equal and knows it. An antagonist who becomes something more complicated the longer the game goes on."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/927380/library_600x900.jpg"
+  alt: "Yakuza Kiwami 2 key art"
 ---
 
 > *"There can only be one dragon."*

@@ -5,6 +5,9 @@ draft: false
 tags: ["Film", "Kiryu", "Majima", "Takashi Miike", "Live Action"]
 categories: ["Media"]
 summary: "Takashi Miike's live-action adaptation of the original Yakuza game, starring Kazuki Kitamura as Kiryu and Goro Kishitani as Majima."
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Like_a_dragon_original_theatrical_poster.jpg/250px-Like_a_dragon_original_theatrical_poster.jpg"
+  alt: "Like a Dragon (2007) theatrical poster"
 ---
 
 ## Overview

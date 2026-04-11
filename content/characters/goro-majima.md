@@ -5,6 +5,9 @@ draft: false
 tags: ["Majima", "Mad Dog of Shimano", "Majima Family", "Protagonist", "Sotenbori", "Kamurocho"]
 categories: ["Characters"]
 summary: "The Mad Dog of Shimano. A man exiled from everything he was, who rebuilt himself into something the yakuza world had never seen before. Equal parts terrifying and honourable."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/3061810/library_600x900.jpg"
+  alt: "Like a Dragon: Pirate Yakuza in Hawaii key art"
 ---
 
 > *"Kiryu-chan!"*

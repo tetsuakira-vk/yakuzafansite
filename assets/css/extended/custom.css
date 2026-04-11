@@ -11,6 +11,25 @@
   --rgg-dark:   #0d0d0d;
 }
 
+/* --- Homepage banner --- */
+.home-banner {
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.home-banner-img {
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+  object-position: center 35%;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .home-banner-img { height: 200px; }
+}
+
 /* --- Top accent bar --- */
 body::before {
   content: "";

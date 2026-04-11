@@ -5,6 +5,9 @@ draft: false
 tags: ["TV Series", "Kiryu", "Nishikiyama", "Amazon Prime", "Live Action", "Season 1"]
 categories: ["Media"]
 summary: "Amazon Prime Video's live-action adaptation of the original Yakuza game, starring Ryoma Takeuchi as Kazuma Kiryu and Kento Kaku as Akira Nishikiyama."
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/en/0/0c/Like_a_Dragon-_Yakuza.jpg"
+  alt: "Like a Dragon: Yakuza — Amazon Prime Video series poster"
 ---
 
 ## Overview

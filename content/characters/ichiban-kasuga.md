@@ -5,6 +5,9 @@ draft: false
 tags: ["Ichiban", "Kasuga", "Yokohama", "Ijincho", "Protagonist", "Turn-Based RPG", "Dragon Quest"]
 categories: ["Characters"]
 summary: "The Hero of Yokohama. A man who grew up poor, was abandoned by the father figure he idolised, spent eighteen years in prison for that man's crime, and emerged ready to save the world anyway."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/library_600x900.jpg"
+  alt: "Yakuza: Like a Dragon key art"
 ---
 
 > *"I'm going to be the hero of my own story."*
