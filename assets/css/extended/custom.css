@@ -1,0 +1,157 @@
+/* =============================================
+   Ryu Ga Gotoku Archive — Custom Theme Layer
+   Built on PaperMod dark base
+   ============================================= */
+
+/* --- Accent colour: Yakuza red/gold palette --- */
+:root {
+  --rgg-red:    #c0392b;
+  --rgg-gold:   #d4a017;
+  --rgg-neon:   #e74c3c;
+  --rgg-dark:   #0d0d0d;
+}
+
+/* --- Top accent bar --- */
+body::before {
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--rgg-red), var(--rgg-gold), var(--rgg-red));
+  z-index: 9999;
+}
+
+/* Push content down so the bar doesn't overlap the header */
+.header {
+  margin-top: 3px;
+}
+
+/* --- Site title in header — gold tint --- */
+.logo a,
+.logo span {
+  color: var(--rgg-gold) !important;
+  letter-spacing: 0.04em;
+}
+
+/* --- Homepage hero banner --- */
+.post-single .post-header,
+.home-info {
+  padding-top: 0;
+}
+
+/* Cover image on homepage: full-width cinematic banner */
+.post-single figure.entry-cover,
+figure.entry-cover {
+  margin: 0 0 0 0;
+  max-height: 420px;
+  overflow: hidden;
+  border-radius: 0;
+}
+
+figure.entry-cover img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  max-height: 420px;
+  border-radius: 0;
+}
+
+/* --- Post/card list: subtle border on hover --- */
+.post-entry {
+  border-radius: 6px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--rgg-red) !important;
+  box-shadow: 0 0 12px rgba(192, 57, 43, 0.18);
+}
+
+/* --- Tag pills: red accent --- */
+.post-tags a,
+.terms-tags a {
+  border: 1px solid var(--rgg-red);
+  color: var(--rgg-red) !important;
+  border-radius: 4px;
+  padding: 1px 7px;
+  font-size: 0.78rem;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.post-tags a:hover,
+.terms-tags a:hover {
+  background: var(--rgg-red);
+  color: #fff !important;
+}
+
+/* --- Post headings: slightly warm --- */
+.post-content h2,
+.post-content h3 {
+  border-left: 3px solid var(--rgg-gold);
+  padding-left: 0.6em;
+}
+
+/* --- Tables: tighter, dark-mode friendly --- */
+.post-content table {
+  font-size: 0.9rem;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.post-content table th {
+  background: rgba(192, 57, 43, 0.12);
+  color: var(--rgg-gold);
+  font-weight: 600;
+  padding: 0.4em 0.75em;
+}
+
+.post-content table td {
+  padding: 0.35em 0.75em;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+/* --- Blockquote: styled as dragon proverb --- */
+.post-content blockquote {
+  border-left: 3px solid var(--rgg-gold);
+  background: rgba(212, 160, 23, 0.06);
+  padding: 0.75em 1.25em;
+  font-style: italic;
+  color: var(--rgg-gold);
+  border-radius: 0 4px 4px 0;
+}
+
+/* --- Breadcrumbs: muted gold --- */
+.breadcrumbs a,
+.breadcrumbs span {
+  color: rgba(212, 160, 23, 0.6) !important;
+  font-size: 0.82rem;
+}
+
+/* --- Cover image thumbnails on list cards --- */
+.entry-cover img {
+  border-radius: 4px 4px 0 0;
+}
+
+/* --- Search input focus glow --- */
+#searchInput:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--rgg-red);
+  border-color: var(--rgg-red);
+}
+
+/* --- Footer: subtle --- */
+.footer {
+  border-top: 1px solid rgba(255,255,255,0.06);
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+/* --- Responsive: reduce banner height on mobile --- */
+@media (max-width: 640px) {
+  figure.entry-cover img {
+    max-height: 220px;
+  }
+}

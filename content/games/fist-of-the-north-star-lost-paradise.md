@@ -3,6 +3,9 @@ title: "Fist of the North Star: Lost Paradise"
 date: 2018-10-02
 draft: false
 weight: 40
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/en/f/fd/Fist_of_the_North_Star_Lost_Paradise_cover.png"
+  alt: "Fist of the North Star: Lost Paradise"
 tags: ["Kenshiro", "Eden", "PS4", "RGG Studio", "Spin-off", "Licensed"]
 categories: ["Games"]
 summary: "RGG Studio builds a Yakuza-engine game around the Fist of the North Star manga license. Kenshiro walks through a post-apocalyptic Kamurocho-alike and makes heads explode. It works."

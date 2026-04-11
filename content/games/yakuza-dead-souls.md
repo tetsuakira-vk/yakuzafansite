@@ -3,6 +3,9 @@ title: "Yakuza: Dead Souls"
 date: 2012-03-13
 draft: false
 weight: 30
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/en/e/e5/Yakuza-dead-souls-ps3-cover-1.jpg"
+  alt: "Yakuza: Dead Souls"
 tags: ["Kiryu", "Majima", "Akiyama", "Ryuji Goda", "Kamurocho", "Zombies", "PS3", "Spin-off"]
 categories: ["Games"]
 summary: "What if Kamurocho was overrun by zombies and the yakuza had to deal with it? Exactly that. A deliberately absurd non-canon spin-off with four playable characters and firearms-based combat."

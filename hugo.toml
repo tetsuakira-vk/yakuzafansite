@@ -18,6 +18,7 @@ buildExpired = false
   keywords = ["Yakuza", "Like a Dragon", "Ryu Ga Gotoku", "Kiryu", "Ichiban", "RGG Studio"]
   author = "The Dragon Fan Collective"
   defaultTheme = "dark"
+  mainSections = ["news"]
   disableThemeToggle = false
   ShowReadingTime = true
   ShowShareButtons = false

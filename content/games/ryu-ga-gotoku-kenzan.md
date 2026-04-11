@@ -3,6 +3,9 @@ title: "Ryu ga Gotoku Kenzan!"
 date: 2008-03-06
 draft: false
 weight: 50
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/en/1/12/Ryu_ga_Gotoku_Kenzan%21_cover.png"
+  alt: "Ryu ga Gotoku Kenzan!"
 tags: ["Kiryu", "Historical", "Edo Period", "PS3", "Japan Only", "Samurai"]
 categories: ["Games"]
 summary: "The first historical spin-off — set in 1605 Kyoto, with the Yakuza cast playing figures from Japanese history. Never officially localised outside Japan."
