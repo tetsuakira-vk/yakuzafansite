@@ -1,0 +1,50 @@
+name: Fetch and publish news
+
+on:
+  schedule:
+    # Runs daily at 08:00 UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:   # allow manual trigger from Actions tab
+
+permissions:
+  contents: write   # needed to commit new news files back to main
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use a token with write access so the commit push works
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run news fetcher
+        run: python scripts/fetch_news.py
+
+      - name: Commit new articles (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the news content directory and the seen-articles log
+          git add content/news/ scripts/seen_articles.json
+
+          # Only commit if there's something staged
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            COUNT=$(git diff --cached --name-only | grep "content/news/" | wc -l | tr -d ' ')
+            git commit -m "news: add ${COUNT} new article(s) [automated]"
+            git push
+          fi
