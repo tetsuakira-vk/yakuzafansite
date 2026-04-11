@@ -92,6 +92,12 @@ buildExpired = false
     weight = 40
 
   [[menu.main]]
+    identifier = "media"
+    name = "Media"
+    url = "/media/"
+    weight = 45
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
