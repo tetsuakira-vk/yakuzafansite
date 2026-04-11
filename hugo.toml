@@ -1,3 +1,112 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://tetsuakira-vk.github.io/yakuzafansite/"
+languageCode = "en-us"
+title = "Ryu Ga Gotoku Archive"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "Ryu Ga Gotoku Archive"
+  description = "A fan hub for the Yakuza / Like a Dragon series — covering every game from Yakuza 0 to Infinite Wealth."
+  keywords = ["Yakuza", "Like a Dragon", "Ryu Ga Gotoku", "Kiryu", "Ichiban", "RGG Studio"]
+  author = "The Dragon Fan Collective"
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Ryu Ga Gotoku Archive"
+    Content = """Welcome to the **Ryu Ga Gotoku Archive** — your fan-run companion for the entire *Yakuza / Like a Dragon* series. From the neon-drenched streets of Kamurocho in *Yakuza 0* to the sun-soaked chaos of Honolulu in *Infinite Wealth*, we cover every game, every character, and every substory worth knowing. Whether you're a longtime fan of Kazuma Kiryu or just meeting Ichiban Kasuga for the first time, you've found your home."""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    limit = 10
+    keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "games"
+    name = "Games"
+    url = "/games/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "characters"
+    name = "Characters"
+    url = "/characters/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "guides"
+    name = "Guides"
+    url = "/guides/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 60
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
