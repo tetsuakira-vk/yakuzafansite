@@ -6,7 +6,7 @@ tags: ["Like a Dragon Gaiden", "Kiryu", "New Release", "PS5", "PC"]
 categories: ["News"]
 summary: "Kiryu returns in a focused action game bridging Yakuza 6 and Infinite Wealth. Launches November 9, 2023, at a lower price point than mainline entries."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2138720/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/c/cb/Like_a_Dragon_Gaiden_Cover_Art.jpg"
   alt: "Like a Dragon Gaiden: The Man Who Erased His Name"
 ---
 

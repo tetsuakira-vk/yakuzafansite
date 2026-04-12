@@ -6,7 +6,7 @@ tags: ["Characters", "Rankings", "Opinion"]
 categories: ["Features"]
 summary: "Protagonists, antagonists, and unforgettable side characters — the people who make the Yakuza universe worth inhabiting, ranked."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Yakuza_Kiwami_2.png"
   alt: "Yakuza 0"
 weight: 3
 ---

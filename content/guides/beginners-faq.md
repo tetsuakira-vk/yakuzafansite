@@ -6,7 +6,7 @@ tags: ["Beginners", "FAQ", "Guide"]
 categories: ["Guides"]
 summary: "The most common questions from people who are new to Yakuza / Like a Dragon, answered without spoilers."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/0/0f/Like_a_Dragon_Infinite_Wealth_Cover_Art.jpg"
   alt: "Yakuza 0"
 weight: 2
 ---

@@ -6,7 +6,7 @@ tags: ["Like a Dragon", "Infinite Wealth", "DLC", "Bond Episodes"]
 categories: ["News"]
 summary: "RGG Studio rolls out the post-launch content plan for Infinite Wealth — Bond Episodes for party members, new dungeons, and the Premium Adventure post-credits content."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/0/0f/Like_a_Dragon_Infinite_Wealth_Cover_Art.jpg"
   alt: "Like a Dragon: Infinite Wealth"
 ---
 

@@ -6,7 +6,7 @@ tags: ["Rankings", "Tier List", "Opinion"]
 categories: ["Features"]
 summary: "All fourteen mainline and major entries ranked — from the unmissable to the ones you can skip. Heavily opinionated. Arguable. That's the point."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/c/cb/Like_a_Dragon_Gaiden_Cover_Art.jpg"
   alt: "Yakuza 0"
 weight: 1
 ---

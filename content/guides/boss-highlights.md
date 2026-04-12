@@ -6,7 +6,7 @@ tags: ["Bosses", "Combat", "Guide"]
 categories: ["Guides"]
 summary: "The Yakuza series has produced some of the most memorable boss encounters in action gaming. These are the fights that define each game — and the series."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Yakuza_Kiwami_2.png"
   alt: "Yakuza 0"
 weight: 5
 ---

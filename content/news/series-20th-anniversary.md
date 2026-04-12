@@ -6,7 +6,7 @@ tags: ["RGG Studio", "Anniversary", "History", "Yakuza 0"]
 categories: ["News"]
 summary: "The original Yakuza launched in Japan on December 8, 2005. Twenty years, twenty-plus games, and 23 million copies later, the series shows no sign of slowing down."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/b/ba/Yakuza0.jpg"
   alt: "Yakuza 0"
 ---
 

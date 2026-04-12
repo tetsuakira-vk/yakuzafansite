@@ -6,7 +6,7 @@ tags: ["Real Locations", "Kamurocho", "Japan", "Trivia"]
 categories: ["Features"]
 summary: "Every major city in the Yakuza series is based on a real Japanese location. Here's what the games get right, what they change, and what's worth visiting if you ever go."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/b/ba/Yakuza0.jpg"
   alt: "Yakuza 0"
 weight: 5
 ---

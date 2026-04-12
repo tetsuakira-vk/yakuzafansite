@@ -6,7 +6,7 @@ tags: ["Like a Dragon", "Pirate Yakuza in Hawaii", "Goro Majima", "New Release",
 categories: ["News"]
 summary: "RGG Studio's Majima-led spin-off launches today on PS4, PS5, Xbox Series, and PC. The Mad Dog wakes up on a beach with no memory and a pirate's calling."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2348570/header.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/8/81/Like_a_Dragon_Pirate_Yakuza_in_Hawaii_Cover_Art.jpg"
   alt: "Like a Dragon: Pirate Yakuza in Hawaii"
 ---
 

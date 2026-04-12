@@ -6,7 +6,7 @@ tags: ["Yakuza Kiwami 3", "Dark Ties", "Kiryu", "Mine", "New Release", "PS5", "P
 categories: ["News"]
 summary: "The Dragon Engine remake of Yakuza 3 launches February 12, 2026, bundled with Dark Ties — a brand new story chapter following antagonist Yoshitaka Mine. Metacritic: 77 (PS5)."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/3937550/header.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Yakuza_Kiwami_3_%26_Dark_Ties_Cover_Art.jpg"
   alt: "Yakuza Kiwami 3 & Dark Ties"
 ---
 

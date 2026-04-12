@@ -6,7 +6,7 @@ tags: ["Like a Dragon", "Infinite Wealth", "Ichiban Kasuga", "Kiryu", "New Relea
 categories: ["News"]
 summary: "RGG Studio's most ambitious game to date launches worldwide. Two protagonists, Honolulu, and a creature-collecting minigame. Metacritic: 88."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/0/0f/Like_a_Dragon_Infinite_Wealth_Cover_Art.jpg"
   alt: "Like a Dragon: Infinite Wealth"
 ---
 

@@ -6,7 +6,7 @@ tags: ["Substories", "Side Quests", "Opinion"]
 categories: ["Features"]
 summary: "The Yakuza series' substories range from touching to completely unhinged. These are the ones worth going out of your way for — across every game."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/2/2f/Yakuza_like_a_dragon_cover_art.jpg"
   alt: "Yakuza 0"
 weight: 2
 ---

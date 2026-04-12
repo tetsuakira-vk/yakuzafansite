@@ -6,7 +6,7 @@ tags: ["Stranger Than Heaven", "RGG Studio", "Announcement", "New Game"]
 categories: ["News"]
 summary: "Revealed at Xbox Partner Preview, Stranger Than Heaven follows protagonist Mako Daito across five time periods from 1915 to 1965 — with Kamurocho and Sotenbori visible in the footage."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://cdn.mos.cms.futurecdn.net/3pKunY5jHoD4ZWvQ4GJVf8-1920-80.jpg"
   alt: "Stranger Than Heaven"
 ---
 

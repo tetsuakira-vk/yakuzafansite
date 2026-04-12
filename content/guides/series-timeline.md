@@ -6,7 +6,7 @@ tags: ["Timeline", "Lore", "Chronology", "Guide"]
 categories: ["Guides"]
 summary: "The Yakuza / Like a Dragon games span nearly 40 years of in-universe time. Here's where each game sits on the timeline and why you should still play them in release order."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/0/0f/Like_a_Dragon_Infinite_Wealth_Cover_Art.jpg"
   alt: "Like a Dragon: Infinite Wealth"
 weight: 3
 ---

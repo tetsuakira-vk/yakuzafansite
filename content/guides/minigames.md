@@ -6,7 +6,7 @@ tags: ["Minigames", "Activities", "Guide"]
 categories: ["Guides"]
 summary: "From karaoke to mahjong to full management sims — the Yakuza series hides genuinely excellent games within its games. Here's what's available and where."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/b/ba/Yakuza0.jpg"
   alt: "Yakuza 0"
 weight: 4
 ---

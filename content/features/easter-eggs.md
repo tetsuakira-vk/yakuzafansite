@@ -6,7 +6,7 @@ tags: ["Easter Eggs", "Trivia", "Developer", "Hidden Details"]
 categories: ["Features"]
 summary: "The hidden callbacks, developer in-jokes, and series-wide references that reward the long-term fan. Spoilers throughout — read after completing the games you care about."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  image: "https://upload.wikimedia.org/wikipedia/en/c/ce/Ry%C5%AB_ga_Gotoku_Ishin%21_cover.jpg"
   alt: "Yakuza 0"
 weight: 6
 ---
