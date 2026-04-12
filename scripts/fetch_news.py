@@ -22,15 +22,18 @@ FEEDS = [
     {"name": "Gematsu",        "url": "https://gematsu.com/feed/"},
     {"name": "Siliconera",     "url": "https://www.siliconera.com/feed/"},
     {"name": "RPGSite",        "url": "https://www.rpgsite.net/feed.xml"},
-    # Broad gaming press — good volume, lower hit rate
+    # Broad gaming press
     {"name": "Push Square",    "url": "https://www.pushsquare.com/feeds/latest"},
+    {"name": "Nintendo Life",  "url": "https://www.nintendolife.com/feeds/latest"},
     {"name": "Eurogamer",      "url": "https://www.eurogamer.net/?format=rss"},
+    {"name": "GamesRadar",     "url": "https://www.gamesradar.com/rss/"},
     {"name": "The Gamer",      "url": "https://www.thegamer.com/feed/"},
     {"name": "Destructoid",    "url": "https://www.destructoid.com/feed/"},
     {"name": "VGC",            "url": "https://www.videogameschronicle.com/feed/"},
     {"name": "IGN",            "url": "https://feeds.feedburner.com/ign/games-all"},
     {"name": "Kotaku",         "url": "https://kotaku.com/rss"},
     {"name": "PC Gamer",       "url": "https://www.pcgamer.com/rss/"},
+    {"name": "GameSpot",       "url": "https://www.gamespot.com/feeds/mashup/"},
 ]
 
 # Spoof a real browser User-Agent — some feeds block default Python/feedparser UA

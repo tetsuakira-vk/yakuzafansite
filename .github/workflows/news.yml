@@ -2,8 +2,9 @@ name: Fetch and publish news
 
 on:
   schedule:
-    # Runs daily at 08:00 UTC
-    - cron: "0 8 * * *"
+    # Runs every 4 hours — RSS feeds typically hold ~20-30 articles,
+    # so running daily risks missing stories that come and go between runs.
+    - cron: "0 */4 * * *"
   workflow_dispatch:   # allow manual trigger from Actions tab
 
 permissions:

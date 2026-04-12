@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 5 — Original Soundtrack"
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1113560/header.jpg"
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1113560/library_600x900.jpg"
   alt: "Yakuza 5 Remastered"
 date: 2024-01-01
 draft: false

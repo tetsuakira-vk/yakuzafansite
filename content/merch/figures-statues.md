@@ -8,7 +8,7 @@ categories: ["Merchandise"]
 summary: "Official Yakuza / Like a Dragon figures — from Good Smile Company Nendoroids to premium scale figures and arcade prize figures."
 cover:
   image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
-  alt: "Yakuza figures and merchandise"
+  alt: "Kazuma Kiryu — Yakuza 0"
 ---
 
 ## Premium Figures

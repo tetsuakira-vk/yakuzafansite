@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 4 — Original Soundtrack"
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1088720/header.jpg"
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1088720/library_600x900.jpg"
   alt: "Yakuza 4 Remastered"
 date: 2024-01-01
 draft: false

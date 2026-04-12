@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like a Dragon — Original Soundtrack"
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/library_600x900.jpg"
   alt: "Yakuza: Like a Dragon"
 date: 2024-01-01
 draft: false
