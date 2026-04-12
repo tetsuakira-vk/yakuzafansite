@@ -11,19 +11,31 @@ import json
 import os
 import re
 import sys
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
 FEEDS = [
-    {"name": "Gematsu",      "url": "https://gematsu.com/feed"},
+    {"name": "Gematsu",      "url": "https://gematsu.com/feed/"},
     {"name": "Siliconera",   "url": "https://www.siliconera.com/feed/"},
     {"name": "RPGSite",      "url": "https://www.rpgsite.net/feed.xml"},
     {"name": "The Gamer",    "url": "https://www.thegamer.com/feed/"},
     {"name": "Eurogamer",    "url": "https://www.eurogamer.net/?format=rss"},
     {"name": "VGC",          "url": "https://www.videogameschronicle.com/feed/"},
+    {"name": "IGN",          "url": "https://www.ign.com/rss/articles.rss"},
 ]
+
+# Spoof a real browser User-Agent — some feeds block default Python/feedparser UA
+USER_AGENT = (
+    "Mozilla/5.0 (compatible; RGGArchiveBot/1.0; "
+    "+https://tetsuakira-vk.github.io/yakuzafansite/)"
+)
+
+# Discord webhook URL — set as DISCORD_WEBHOOK secret in GitHub repo settings.
+# If not set, alerting is silently skipped.
+DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK", "")
 
 # Case-insensitive. Matched against article title + description combined.
 KEYWORDS = [
@@ -165,6 +177,41 @@ def derive_tags(text: str) -> list:
             tags.append(tag)
     return tags
 
+# ── Discord alerting ──────────────────────────────────────────────────────────
+
+def notify_discord(new_posts: list):
+    """Post a summary to Discord when new articles are published."""
+    if not DISCORD_WEBHOOK:
+        return
+    try:
+        import json as _json
+        count = len(new_posts)
+        lines = "\n".join(f"• {p.replace('.md', '').split('-', 3)[-1].replace('-', ' ').title()}" for p in new_posts[:10])
+        if count > 10:
+            lines += f"\n…and {count - 10} more"
+        payload = {
+            "username": "RGG Archive News",
+            "avatar_url": "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg",
+            "embeds": [{
+                "title": f"📰 {count} new Yakuza article{'s' if count != 1 else ''} posted",
+                "description": lines,
+                "url": "https://tetsuakira-vk.github.io/yakuzafansite/news/",
+                "color": 0xC0392B,  # Yakuza red
+            }]
+        }
+        data = _json.dumps(payload).encode("utf-8")
+        req = urllib.request.Request(
+            DISCORD_WEBHOOK,
+            data=data,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        urllib.request.urlopen(req, timeout=10)
+        print("Discord notification sent.")
+    except Exception as e:
+        print(f"Discord notification failed (non-fatal): {e}", file=sys.stderr)
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -178,7 +225,12 @@ def main():
         print(f"Fetching {name}…", flush=True)
 
         try:
-            feed = feedparser.parse(url)
+            # Fetch raw bytes with a browser-like User-Agent, then hand to feedparser.
+            # This avoids blocks from servers that reject the default Python UA.
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read()
+            feed = feedparser.parse(raw)
         except Exception as e:
             print(f"  ERROR fetching {name}: {e}", file=sys.stderr)
             continue
@@ -211,6 +263,7 @@ def main():
 
     if new_posts:
         print(f"\n{len(new_posts)} new post(s) created.")
+        notify_discord(new_posts)
     else:
         print("\nNo new matching articles.")
 

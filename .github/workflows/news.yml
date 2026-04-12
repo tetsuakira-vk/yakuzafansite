@@ -30,6 +30,8 @@ jobs:
         run: pip install feedparser
 
       - name: Run news fetcher
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python scripts/fetch_news.py
 
       - name: Commit new articles (if any)
