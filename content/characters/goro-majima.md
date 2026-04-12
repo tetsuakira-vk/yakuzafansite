@@ -6,8 +6,8 @@ tags: ["Majima", "Mad Dog of Shimano", "Majima Family", "Protagonist", "Sotenbor
 categories: ["Characters"]
 summary: "The Mad Dog of Shimano. A man exiled from everything he was, who rebuilt himself into something the yakuza world had never seen before. Equal parts terrifying and honourable."
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/en/3/3b/GoroMajimafive.jpg"
-  alt: "Goro Majima official character render"
+  image: "images/characters/goro-majima.webp"
+  alt: "Goro Majima"
 ---
 
 > *"Kiryu-chan!"*
