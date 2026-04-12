@@ -103,6 +103,12 @@ buildExpired = false
     weight = 40
 
   [[menu.main]]
+    identifier = "features"
+    name = "Features"
+    url = "/features/"
+    weight = 43
+
+  [[menu.main]]
     identifier = "media"
     name = "Media"
     url = "/media/"

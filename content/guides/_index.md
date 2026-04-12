@@ -1,11 +1,32 @@
 ---
 title: "Guides"
-description: "Secrets, Easter eggs, puzzle solutions, and fun facts for every game in the Ryu Ga Gotoku series."
+description: "Play order, beginner help, minigame tips, boss breakdowns, and per-game secrets for the entire Yakuza / Like a Dragon series."
 ---
 
-Secrets and Easter eggs you likely missed, puzzle and minigame solutions, and trivia about the real-world research behind each game.
+Everything you need to get into the series, survive it, and understand it.
 
-## Quick Navigation
+## Start Here
+
+<div class="nav-group">
+<h4>New to the Series?</h4>
+<div class="nav-grid">
+<a href="play-order/">What Order to Play the Games</a>
+<a href="beginners-faq/">Beginner FAQ</a>
+<a href="series-timeline/">Series Timeline & Chronology</a>
+</div>
+</div>
+
+## In-Game Help
+
+<div class="nav-group">
+<h4>Mechanics & Activities</h4>
+<div class="nav-grid">
+<a href="minigames/">Minigames Hub</a>
+<a href="boss-highlights/">Memorable Bosses</a>
+</div>
+</div>
+
+## Per-Game Guides
 
 <div class="nav-group">
 <h4>Mainline Series</h4>
@@ -32,4 +53,3 @@ Secrets and Easter eggs you likely missed, puzzle and minigame solutions, and tr
 <a href="lost-judgment-guide/">Lost Judgment</a>
 </div>
 </div>
-
