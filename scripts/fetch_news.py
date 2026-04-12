@@ -82,7 +82,16 @@ def save_seen(seen: set):
 
 def matches_keywords(text: str) -> bool:
     lower = text.lower()
-    return any(kw in lower for kw in KEYWORDS)
+    for kw in KEYWORDS:
+        # Use word-boundary matching for short/common keywords to avoid
+        # false positives (e.g. "soulmask" matching "mask", "kiryu" is fine as-is).
+        if len(kw) <= 6 and " " not in kw:
+            if re.search(r"\b" + re.escape(kw) + r"\b", lower):
+                return True
+        else:
+            if kw in lower:
+                return True
+    return False
 
 
 def slugify(text: str) -> str:
