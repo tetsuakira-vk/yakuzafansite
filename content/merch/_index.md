@@ -6,14 +6,15 @@ cover:
   alt: "Yakuza merchandise"
 ---
 
-A curated guide to official Yakuza / Like a Dragon merchandise — from premium figures to Japan-exclusive collector's editions. This section covers what exists, where to find it, and what's worth tracking down. We don't sell anything; all links go to official retailers or established secondhand markets.
+Official Yakuza / Like a Dragon merchandise — what exists, where to find it, and what's worth tracking down. All links go to official retailers or established secondhand markets.
 
-## Quick Navigation
-
-| Category | What's in there |
-|----------|----------------|
-| [Figures & Statues](figures-statues/) | Nendoroids, scale figures, prize figures |
-| [Apparel & Clothing](apparel/) | Official clothing collabs, branded items |
-| [Collector's Editions](collectors-editions/) | Limited game releases and special sets |
-| [Japan Exclusives](japan-exclusives/) | Items only available in Japan and how to get them |
+<div class="nav-group">
+<h4>Browse by Category</h4>
+<div class="nav-grid">
+<a href="figures-statues/">Figures & Statues</a>
+<a href="apparel/">Apparel & Clothing</a>
+<a href="collectors-editions/">Collector's Editions</a>
+<a href="japan-exclusives/">Japan Exclusives</a>
+</div>
+</div>
 

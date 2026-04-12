@@ -7,6 +7,12 @@ theme = "PaperMod"
   pagerSize = 10
 
 enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Allow raw HTML in markdown — needed for compact nav grids on section pages
+      unsafe = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
@@ -35,6 +41,10 @@ buildExpired = false
   hideSummary = false
   showtoc = true
   tocopen = false
+
+  # Banner shown across the whole site — update to latest game's Steam hero image
+  # Yakuza Kiwami 3 & Dark Ties (App ID 3937550), released Feb 2026
+  featuredBanner = "https://cdn.akamai.steamstatic.com/steam/apps/3937550/library_hero.jpg"
 
   [params.homeInfoParams]
     Title = "Ryu Ga Gotoku Archive"

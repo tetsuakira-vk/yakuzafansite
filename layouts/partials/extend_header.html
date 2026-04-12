@@ -1,0 +1,11 @@
+{{- /* Site-wide banner strip — shown on every page except the homepage,
+       which already renders the full banner via home_info.html */ -}}
+{{- if and (not .IsHome) site.Params.featuredBanner }}
+<div class="site-banner-strip">
+  <img
+    src="{{ site.Params.featuredBanner }}"
+    alt="{{ site.Title }}"
+    loading="lazy"
+  >
+</div>
+{{- end }}

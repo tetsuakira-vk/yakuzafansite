@@ -5,41 +5,47 @@ description: "Every entry in the Yakuza / Like a Dragon series — mainline game
 
 ## Quick Navigation
 
-### Kiryu Saga
+<div class="nav-group">
+<h4>Kiryu Saga</h4>
+<div class="nav-grid">
+<a href="yakuza-0/">Yakuza 0</a>
+<a href="yakuza-kiwami/">Yakuza Kiwami</a>
+<a href="yakuza-kiwami-2/">Yakuza Kiwami 2</a>
+<a href="yakuza-3-remastered/">Yakuza 3 Remastered</a>
+<a href="yakuza-4-remastered/">Yakuza 4 Remastered</a>
+<a href="yakuza-5-remastered/">Yakuza 5 Remastered</a>
+<a href="yakuza-6/">Yakuza 6: The Song of Life</a>
+<a href="like-a-dragon-gaiden/">Like a Dragon Gaiden</a>
+<a href="yakuza-kiwami-3/">Yakuza Kiwami 3 & Dark Ties</a>
+</div>
+</div>
 
-| # | Title | Year | Platforms |
-|---|---|---|---|
-| 1 | [Yakuza 0](yakuza-0/) | 2015/2017 | PS4 · PC · Xbox |
-| 2 | [Yakuza Kiwami](yakuza-kiwami/) | 2016/2017 | PS4 · PC · Xbox |
-| 3 | [Yakuza Kiwami 2](yakuza-kiwami-2/) | 2017/2018 | PS4 · PC · Xbox |
-| 4 | [Yakuza 3 Remastered](yakuza-3-remastered/) | 2009/2019 | PS4 · PC · Xbox |
-| 5 | [Yakuza 4 Remastered](yakuza-4-remastered/) | 2010/2019 | PS4 · PC · Xbox |
-| 6 | [Yakuza 5 Remastered](yakuza-5-remastered/) | 2012/2019 | PS4 · PC · Xbox |
-| 7 | [Yakuza 6: The Song of Life](yakuza-6/) | 2016/2018 | PS4 · PC |
-| — | [Like a Dragon Gaiden](like-a-dragon-gaiden/) | 2023 | PS4 · PS5 · PC · Xbox |
+<div class="nav-group">
+<h4>Ichiban Saga</h4>
+<div class="nav-grid">
+<a href="yakuza-like-a-dragon/">Yakuza: Like a Dragon</a>
+<a href="like-a-dragon-infinite-wealth/">Like a Dragon: Infinite Wealth</a>
+</div>
+</div>
 
-### Ichiban Saga
+<div class="nav-group">
+<h4>Historical</h4>
+<div class="nav-grid">
+<a href="ryu-ga-gotoku-kenzan/">Ryu ga Gotoku Kenzan!</a>
+<a href="like-a-dragon-ishin/">Like a Dragon: Ishin!</a>
+</div>
+</div>
 
-| # | Title | Year | Platforms |
-|---|---|---|---|
-| 1 | [Yakuza: Like a Dragon](yakuza-like-a-dragon/) | 2020 | PS4 · PS5 · PC · Xbox |
-| 2 | [Like a Dragon: Infinite Wealth](like-a-dragon-infinite-wealth/) | 2024 | PS4 · PS5 · PC · Xbox |
-
-### Historical Titles
-
-| Title | Period | Platforms |
-|---|---|---|
-| [Ryu ga Gotoku Kenzan!](ryu-ga-gotoku-kenzan/) | Edo Japan, 1605 — Japan only | PS3 |
-| [Like a Dragon: Ishin!](like-a-dragon-ishin/) | Bakumatsu Japan, 1860s | PS4 · PS5 · PC · Xbox |
-
-### Spin-offs
-
-| Title | Protagonist | Platforms |
-|---|---|---|
-| [Judgment](judgment/) | Takayuki Yagami | PS4 · PS5 · PC · Xbox |
-| [Lost Judgment](lost-judgment/) | Takayuki Yagami | PS4 · PS5 · PC · Xbox |
-| [Like a Dragon: Pirate Yakuza in Hawaii](like-a-dragon-pirate-yakuza-hawaii/) | Goro Majima | PS4 · PS5 · PC · Xbox |
-| [Yakuza: Dead Souls](yakuza-dead-souls/) | Kiryu / Majima / Akiyama / Goda | PS3 |
-| [Fist of the North Star: Lost Paradise](fist-of-the-north-star-lost-paradise/) | Kenshiro | PS4 |
+<div class="nav-group">
+<h4>Spin-offs & Judgment</h4>
+<div class="nav-grid">
+<a href="judgment/">Judgment</a>
+<a href="lost-judgment/">Lost Judgment</a>
+<a href="like-a-dragon-pirate-yakuza-hawaii/">Pirate Yakuza in Hawaii</a>
+<a href="yakuza-dead-souls/">Yakuza: Dead Souls</a>
+<a href="fist-of-the-north-star-lost-paradise/">Fist of the North Star</a>
+</div>
+</div>
 
 ---
+
