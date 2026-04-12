@@ -1,5 +1,8 @@
 ---
 title: "Judgment — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2058690/header.jpg"
+  alt: "Judgment"
 date: 2024-01-01
 draft: false
 weight: 120

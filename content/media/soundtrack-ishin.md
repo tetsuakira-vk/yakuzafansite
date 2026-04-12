@@ -1,5 +1,8 @@
 ---
 title: "Like a Dragon: Ishin! — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1805480/header.jpg"
+  alt: "Like a Dragon: Ishin!"
 date: 2024-01-01
 draft: false
 weight: 109

@@ -1,6 +1,9 @@
 ---
 title: "Merchandise"
 description: "Official and notable fan merchandise for the Ryu Ga Gotoku / Yakuza series — figures, apparel, collector's editions, and Japan-exclusive items."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  alt: "Yakuza merchandise"
 ---
 
 A curated guide to official Yakuza / Like a Dragon merchandise — from premium figures to Japan-exclusive collector's editions. This section covers what exists, where to find it, and what's worth tracking down. We don't sell anything; all links go to official retailers or established secondhand markets.

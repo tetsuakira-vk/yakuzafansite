@@ -18,13 +18,19 @@ from pathlib import Path
 # ── Configuration ─────────────────────────────────────────────────────────────
 
 FEEDS = [
-    {"name": "Gematsu",      "url": "https://gematsu.com/feed/"},
-    {"name": "Siliconera",   "url": "https://www.siliconera.com/feed/"},
-    {"name": "RPGSite",      "url": "https://www.rpgsite.net/feed.xml"},
-    {"name": "The Gamer",    "url": "https://www.thegamer.com/feed/"},
-    {"name": "Eurogamer",    "url": "https://www.eurogamer.net/?format=rss"},
-    {"name": "VGC",          "url": "https://www.videogameschronicle.com/feed/"},
-    {"name": "IGN",          "url": "https://www.ign.com/rss/articles.rss"},
+    # Specialist / JP-focused — highest hit rate for RGG news
+    {"name": "Gematsu",        "url": "https://gematsu.com/feed/"},
+    {"name": "Siliconera",     "url": "https://www.siliconera.com/feed/"},
+    {"name": "RPGSite",        "url": "https://www.rpgsite.net/feed.xml"},
+    # Broad gaming press — good volume, lower hit rate
+    {"name": "Push Square",    "url": "https://www.pushsquare.com/feeds/latest"},
+    {"name": "Eurogamer",      "url": "https://www.eurogamer.net/?format=rss"},
+    {"name": "The Gamer",      "url": "https://www.thegamer.com/feed/"},
+    {"name": "Destructoid",    "url": "https://www.destructoid.com/feed/"},
+    {"name": "VGC",            "url": "https://www.videogameschronicle.com/feed/"},
+    {"name": "IGN",            "url": "https://feeds.feedburner.com/ign/games-all"},
+    {"name": "Kotaku",         "url": "https://kotaku.com/rss"},
+    {"name": "PC Gamer",       "url": "https://www.pcgamer.com/rss/"},
 ]
 
 # Spoof a real browser User-Agent — some feeds block default Python/feedparser UA

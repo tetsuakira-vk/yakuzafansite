@@ -6,41 +6,49 @@ weight: 1
 tags: ["Merchandise", "Figures", "Nendoroid", "Good Smile Company"]
 categories: ["Merchandise"]
 summary: "Official Yakuza / Like a Dragon figures — from Good Smile Company Nendoroids to premium scale figures and arcade prize figures."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
+  alt: "Yakuza figures and merchandise"
 ---
 
 ## Premium Figures
 
 ### Good Smile Company — Nendoroids
 
-Good Smile Company (GSC) has produced several Nendoroid figures based on the series. These are the most widely available premium figures internationally, stocked by most anime/game figure retailers.
+Good Smile Company (GSC) has produced several Nendoroid figures based on the series. These are the most widely available premium figures internationally.
 
-**Kazuma Kiryu Nendoroid** — Released in conjunction with a major series milestone. Includes interchangeable face plates (neutral, battle, and a subtle smiling expression), two hand configurations, and a small Dragon accessory. The figure captures the grey suit well and includes a tiny mahjong tile as an accessory detail.
+**Kazuma Kiryu Nendoroid** — Includes interchangeable face plates (neutral, battle, subtle smile), two hand configurations, and a small Dragon accessory. Check availability at [AmiAmi](https://www.amiami.com) or search Amazon:
 
-**Goro Majima Nendoroid** — The harder to find of the two main character releases. Includes the iconic eye patch, interchangeable expressions (three, including the unhinged grin), and multiple weapon accessories. One face plate depicts Goromi (cross-dressed Majima), making it a collector's item in its own right.
+[🛒 Search Kiryu Nendoroid on Amazon](https://www.amazon.com/s?k=kazuma+kiryu+nendoroid&tag=tetsuakira-21)
 
-**Ichiban Kasuga Nendoroid** — More recent release. Includes baseball bat, interchangeable expressions reflecting his enthusiasm, and a small companion character accessory.
+**Goro Majima Nendoroid** — Includes the iconic eye patch, three interchangeable expressions (including the unhinged grin and a Goromi face plate), and multiple weapon accessories.
 
-**Where to buy:** Good Smile Company's official webstore, AmiAmi, CDJapan. Older releases on Mandarake, eBay, and Mercari JP.
+[🛒 Search Majima Nendoroid on Amazon](https://www.amazon.com/s?k=goro+majima+nendoroid&tag=tetsuakira-21)
+
+**Ichiban Kasuga Nendoroid** — More recent release. Includes baseball bat, enthusiasm expressions, and a companion accessory.
+
+[🛒 Search Ichiban Nendoroid on Amazon](https://www.amazon.com/s?k=ichiban+kasuga+nendoroid&tag=tetsuakira-21)
+
+Direct from manufacturer: [Good Smile Company webstore](https://www.goodsmile.info)
 
 ---
 
-### Union Creative / Other Scale Figures
+### Scale Figures
 
 Several manufacturers have produced 1/8 and 1/7 scale figures:
 
-- **Kazuma Kiryu (suit, Dragon Style pose)** — Multiple releases from different manufacturers across the series' history. Quality varies significantly; the most recent Dragon Engine-based sculpt is the most accurate to the current character model.
-- **Goro Majima (Mad Dog stance)** — The bat-raised fighting pose release is the most iconic. Limited print runs mean secondhand prices are significantly above original retail.
-- **Ryuji Goda** — Rare. One premium scale release, Japan only, now commanding substantial secondhand prices.
+- **Kazuma Kiryu (suit, Dragon Style pose)** — Multiple releases across the series' history. The most recent Dragon Engine-based sculpt is the most accurate to the current character model.
+- **Goro Majima (Mad Dog stance)** — The bat-raised fighting pose is the most iconic release. Limited print runs mean secondhand prices are above original retail.
+
+[🛒 Search Yakuza scale figures on Amazon](https://www.amazon.com/s?k=yakuza+figure+scale&tag=tetsuakira-21)
 
 ---
 
 ## Prize Figures
 
-Prize figures (arcade UFO catcher prizes) represent the most accessible price point for Yakuza figures. Quality is lower than premium releases but many are well-sculpted for the format.
+Prize figures (arcade UFO catcher prizes) are the most accessible price point. TAITO has produced the most consistent run — characters include Kiryu, Majima, Ichiban, and several supporting characters. These filter onto secondhand markets at affordable prices.
 
-**TAITO Prize Figures** — Taito has produced the most consistent run of Yakuza prize figures, available through their crane game network in Japan. Characters covered include Kiryu, Majima, Ichiban, and several supporting characters. These filter onto secondhand markets (Mercari Japan, Yahoo Auctions JP) at affordable prices.
-
-**SEGA Prize Figures** — SEGA's own prize figure line has included Yakuza entries across different series milestones.
+[🛒 Search Yakuza prize figures on Amazon](https://www.amazon.com/s?k=yakuza+like+a+dragon+figure&tag=tetsuakira-21)
 
 ---
 
@@ -48,12 +56,11 @@ Prize figures (arcade UFO catcher prizes) represent the most accessible price po
 
 | Retailer | Best for |
 |----------|---------|
-| **AmiAmi** (amiami.com) | New premium figures, international shipping |
-| **Good Smile Online Shop** | GSC-produced figures direct |
-| **CDJapan** | New releases, reliable international shipping |
-| **Mandarake** | Out-of-print and secondhand premium figures |
-| **Mercari Japan** | Prize figures and secondhand at lower prices |
-| **Yahoo Auctions JP** | Best selection, requires proxy for non-Japan buyers |
+| [AmiAmi](https://www.amiami.com) | New premium figures, international shipping |
+| [Good Smile Online Shop](https://www.goodsmile.info) | GSC-produced figures direct |
+| [CDJapan](https://www.cdjapan.co.jp) | New releases, reliable international shipping |
+| [Mandarake](https://www.mandarake.co.jp) | Out-of-print and secondhand premium figures |
+| [Amazon](https://www.amazon.com/s?k=yakuza+figure&tag=tetsuakira-21) | Wide selection, check seller ratings carefully |
 
 For Yahoo Auctions and Mercari Japan outside Japan, proxy services like **Buyee** or **From Japan** handle purchasing and international shipping.
 

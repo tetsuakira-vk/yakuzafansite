@@ -1,5 +1,8 @@
 ---
 title: "Yakuza Kiwami — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/834530/header.jpg"
+  alt: "Yakuza Kiwami"
 date: 2024-01-01
 draft: false
 weight: 102

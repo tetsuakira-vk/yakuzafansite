@@ -6,82 +6,71 @@ weight: 4
 tags: ["Merchandise", "Japan", "Japan Exclusive", "Import"]
 categories: ["Merchandise"]
 summary: "The Yakuza merchandise that never leaves Japan — and the practical methods for getting it if you're outside the country."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg"
+  alt: "Yakuza: Like a Dragon"
 ---
 
-A significant portion of the best Yakuza / Like a Dragon merchandise is Japan-exclusive. This covers what exists, why it stays in Japan, and the most reliable methods for importing it.
-
----
-
-## Why So Much Is Japan-Only
-
-The Yakuza series has a far larger commercial footprint in Japan than in Western markets — not just in game sales but in the wider entertainment ecosystem: pachinko, arcade, event merchandise, fashion collabs, physical media. The economics of localising and distributing smaller merchandise runs internationally simply don't work for most items.
-
-Additionally, some items are produced specifically for Japanese retail channels (convenience stores, game shops, crane game arcades) that have no Western equivalent.
+A significant portion of the best Yakuza merchandise is Japan-exclusive. This covers what exists and the most reliable methods for importing it.
 
 ---
 
 ## Categories of Japan-Exclusive Items
 
-### Convenience Store Collaborations
-Japanese convenience store chains (7-Eleven, Lawson, FamilyMart) run periodic collaborations with major entertainment franchises. Yakuza / Like a Dragon has appeared in these. Collaboration items typically include:
-
-- Branded food packaging
-- Exclusive sticker sets or card collections available with purchase
-- Redemption codes for in-game content
-- Branded stationary or small accessories
-
-These are extremely time-limited and difficult to acquire internationally in real time. Secondhand markets see them listed shortly after campaigns end.
-
 ### Crane Game (UFO Catcher) Prize Items
-Japanese arcades run crane game prizes for the series continuously. These include:
-- Prize figures (lower detail than premium releases but often well-sculpted)
-- Plush figures (particularly popular; Kiryu, Majima, and the Yakuza series' various animal mascots)
+
+Japanese arcades run crane game prizes for the series continuously:
+- Prize figures (often well-sculpted for the format)
+- Plush figures — Kiryu, Majima, Ichiban, and the series' various animal mascots
 - Character acrylic stands and keychains
 
-These appear on Mercari Japan within days of release. Prices are typically reasonable — the crane game ecosystem generates high volume.
+These appear on Mercari Japan within days of release at affordable prices.
 
-### Animate / Toranoana Exclusive Items
-Japanese specialist shops (Animate, Toranoana, Gamers) carry exclusive merchandise not stocked elsewhere:
-- Character goods sets
-- Illustrated goods using art commissioned for the shop exclusives
-- Doujin (fan-produced) goods sold at events through these retailers
+[🛒 Search Yakuza plush figures on Amazon](https://www.amazon.com/s?k=yakuza+plush+kiryu+majima&tag=tetsuakira-21)
 
-### Lottery / Kuji Items
-**Ichiban Kuji** is a lottery system operated in Japanese convenience stores and game shops. Players buy a ticket for ¥800 and receive a prize from a set range — A prize (best), B, C, etc. down to last prize. RGG Studio titles have appeared in Ichiban Kuji runs with prize sets including:
-- Premium figures (A prize)
-- Acrylic stands and character goods (mid-tier prizes)
-- Branded towels or pouches (last prize)
+### Ichiban Kuji Lottery Items
 
-Ichiban Kuji items are highly sought after and appear quickly on secondhand markets. The premium figures in particular are often better quality than standard retail releases.
+**Ichiban Kuji** is a lottery system in Japanese convenience stores and game shops. Players buy a ticket (¥800) and receive a prize from a tiered set — A prize (best) down to last prize. RGG entries have included:
+
+- **A prize** — Premium figures, often better quality than standard retail
+- **Mid-tier** — Acrylic stands, character goods
+- **Last prize** — Branded towels, pouches
+
+Ichiban Kuji A-prize figures are highly sought after and appear quickly on secondhand markets.
+
+[🛒 Search Ichiban Kuji Yakuza on Amazon](https://www.amazon.com/s?k=ichiban+kuji+yakuza&tag=tetsuakira-21)
+
+### Convenience Store Collaborations
+
+7-Eleven, Lawson, and FamilyMart run periodic collabs with major franchises. Yakuza items have included sticker sets, card collections, and branded stationary — all time-limited and Japan-only.
 
 ---
 
 ## Practical Import Methods
 
-### Proxy Services
-The most reliable method for buying directly from Japanese secondhand markets and stores.
+### Proxy Services (Recommended)
 
 | Service | Best for |
 |---------|---------|
-| **Buyee** (buyee.jp) | Yahoo Auctions JP, Mercari JP, most major stores |
-| **From Japan** (fromjapan.co.jp) | Similar to Buyee, slightly different fee structure |
-| **ZenMarket** | Good for multiple simultaneous purchases |
+| [Buyee](https://buyee.jp) | Yahoo Auctions JP, Mercari JP, most major stores |
+| [From Japan](https://www.fromjapan.co.jp) | Similar coverage, slightly different fees |
+| [ZenMarket](https://zenmarket.jp) | Good for multiple simultaneous purchases |
 
-Proxy services handle buying, domestic shipping to their warehouse, and international shipping to you. Fees add up — typically ¥500–¥1,000 service fee plus actual shipping costs.
+Proxy services handle purchasing, domestic Japan shipping, and international delivery to you.
 
-### Direct Retail (International Shipping)
-Some Japanese retailers ship internationally directly:
-- **CDJapan** — strong for physical media and some merchandise
-- **AmiAmi** — best for figures, ships internationally
-- **SEGA Official Shop** — official clothing and accessories, requires checking international availability
-- **Good Smile Company webstore** — direct for GSC-produced figures
+### Direct International Shipping
 
-### Secondhand (eBay / International)
-Items eventually reach international eBay and other markets, typically at a significant premium over Japanese secondhand prices. Useful if you don't want to deal with proxy services but expect to pay more.
+| Retailer | Ships internationally |
+|---------|----------------------|
+| [CDJapan](https://www.cdjapan.co.jp) | Physical media and some merchandise |
+| [AmiAmi](https://www.amiami.com) | Best for figures |
+| [Amazon Japan](https://www.amazon.co.jp) | Wide selection, some listings ship internationally |
+
+[🛒 Browse Yakuza merchandise on Amazon](https://www.amazon.com/s?k=yakuza+like+a+dragon+merchandise&tag=tetsuakira-21)
 
 ---
 
 ## Timing
 
-Most exclusive items depreciate on the secondhand market over 2–6 months after release, then stabilise or rise as stock is absorbed. Ichiban Kuji A prizes and limited collaboration items often rise over time. For anything genuinely limited, buying close to release (via proxy) is almost always cheaper than waiting.
+Most exclusive items depreciate on the secondhand market over 2–6 months after release, then stabilise or rise. Ichiban Kuji A prizes and limited collaboration items often appreciate over time. Buying close to release via proxy is almost always cheaper than waiting.
 

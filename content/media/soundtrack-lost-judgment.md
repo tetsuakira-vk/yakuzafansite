@@ -1,5 +1,8 @@
 ---
 title: "Lost Judgment — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1836450/header.jpg"
+  alt: "Lost Judgment"
 date: 2024-01-01
 draft: false
 weight: 121

@@ -1,5 +1,8 @@
 ---
 title: "Like a Dragon: Infinite Wealth — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2072450/header.jpg"
+  alt: "Like a Dragon: Infinite Wealth"
 date: 2024-01-01
 draft: false
 weight: 111

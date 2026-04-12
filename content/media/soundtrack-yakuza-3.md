@@ -1,5 +1,8 @@
 ---
 title: "Yakuza 3 — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1088710/header.jpg"
+  alt: "Yakuza 3 Remastered"
 date: 2024-01-01
 draft: false
 weight: 104

@@ -1,5 +1,8 @@
 ---
 title: "Yakuza 6: The Song of Life — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/1388650/header.jpg"
+  alt: "Yakuza 6: The Song of Life"
 date: 2024-01-01
 draft: false
 weight: 107

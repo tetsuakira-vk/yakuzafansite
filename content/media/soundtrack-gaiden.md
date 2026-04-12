@@ -1,5 +1,8 @@
 ---
 title: "Like a Dragon Gaiden: The Man Who Erased His Name — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/2375550/header.jpg"
+  alt: "Like a Dragon Gaiden"
 date: 2024-01-01
 draft: false
 weight: 110

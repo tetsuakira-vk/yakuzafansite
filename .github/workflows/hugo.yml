@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch:
+  # Rebuild site when the news aggregator commits new articles.
+  # GITHUB_TOKEN pushes don't auto-trigger workflows, so we listen explicitly.
+  workflow_run:
+    workflows: ["Fetch and publish news"]
+    types: [completed]
+    branches: [main]
 
 permissions:
   contents: read

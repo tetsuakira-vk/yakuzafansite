@@ -1,5 +1,8 @@
 ---
 title: "Like a Dragon: Pirate Yakuza in Hawaii — Original Soundtrack"
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/3061810/header.jpg"
+  alt: "Like a Dragon: Pirate Yakuza in Hawaii"
 date: 2024-01-01
 draft: false
 weight: 112

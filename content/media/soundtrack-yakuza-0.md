@@ -6,6 +6,9 @@ weight: 101
 tags: ["Soundtrack", "Yakuza 0", "Music", "Hidenori Shoji"]
 categories: ["Soundtracks"]
 summary: "The 1988 bubble-economy soundtrack that defined the series' sound — funk, city pop, and pounding synth battle themes across three discs."
+cover:
+  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg"
+  alt: "Yakuza 0"
 ---
 
 ## Overview
