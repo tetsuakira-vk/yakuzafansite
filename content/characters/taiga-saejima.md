@@ -6,8 +6,8 @@ tags: ["Saejima", "Majima Family", "Tojo Clan", "Prison", "Protagonist", "Yakuza
 categories: ["Characters"]
 summary: "A man who spent eighteen years in prison for a massacre he was ordered to commit, only to discover the truth was worse than the crime. One of the most physically imposing — and most quietly honourable — characters in the series."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1105510/library_600x900.jpg"
-  alt: "Yakuza 5 Remastered key art"
+  image: "/images/characters/taiga-saejima.webp"
+  alt: "Taiga Saejima"
 ---
 
 ## Overview

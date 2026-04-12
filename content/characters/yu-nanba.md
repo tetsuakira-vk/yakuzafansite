@@ -6,8 +6,8 @@ tags: ["Nanba", "Ichiban", "Ijincho", "Homeless", "Nurse", "Protagonist Party"]
 categories: ["Characters"]
 summary: "A former nurse living homeless in Yokohama's Ijincho when he meets Ichiban. Cynical, practical, and one of the most quietly compelling members of the Like a Dragon party."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/638970/library_600x900.jpg"
-  alt: "Yakuza 0 key art"
+  image: "/images/characters/yu-nanba.webp"
+  alt: "Yu Nanba"
 ---
 
 ## Overview

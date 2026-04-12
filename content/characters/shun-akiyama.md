@@ -6,8 +6,8 @@ tags: ["Akiyama", "Sky Finance", "Tojo Clan", "Protagonist", "Yakuza 4", "Yakuza
 categories: ["Characters"]
 summary: "A money lender who gives loans to people others have written off, asking only that they prove themselves worthy. Cool, generous, and considerably more dangerous than he looks."
 cover:
-  image: "https://cdn.akamai.steamstatic.com/steam/apps/1105500/library_600x900.jpg"
-  alt: "Yakuza 4 Remastered key art"
+  image: "/images/characters/shun-akiyama.webp"
+  alt: "Shun Akiyama"
 ---
 
 ## Overview
