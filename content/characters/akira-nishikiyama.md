@@ -6,7 +6,7 @@ tags: ["Nishikiyama", "Tojo Clan", "Nishikiyama Family", "Antagonist", "Kiryu Sa
 categories: ["Characters"]
 summary: "Kiryu's sworn brother. The man whose weakness and pride set the entire Kiryu saga in motion. One of the series' most tragic figures."
 cover:
-  image: "/images/characters/akira-nishikiyama.webp"
+  image: "images/characters/akira-nishikiyama.webp"
   alt: "Akira Nishikiyama"
 ---
 

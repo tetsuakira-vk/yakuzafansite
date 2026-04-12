@@ -6,7 +6,7 @@ tags: ["Ryuji Goda", "Dragon of Kansai", "Omi Alliance", "Antagonist", "Yakuza 2
 categories: ["Characters"]
 summary: "The Dragon of Kansai. The only man in the series who meets Kiryu as an outright equal and knows it. An antagonist who becomes something more complicated the longer the game goes on."
 cover:
-  image: "/images/characters/ryuji-goda.png"
+  image: "images/characters/ryuji-goda.png"
   alt: "Ryuji Goda"
 ---
 

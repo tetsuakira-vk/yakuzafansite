@@ -6,7 +6,7 @@ tags: ["Haruka", "Kiryu", "Orphan", "Idol", "Yakuza 3", "Yakuza 5", "Yakuza 6"]
 categories: ["Characters"]
 summary: "Kiryu's ward. The girl who gave the Dragon of Dojima a reason to stop fighting and start living. Her arc across the series is one of its quiet masterpieces."
 cover:
-  image: "/images/characters/haruka-sawamura.png"
+  image: "images/characters/haruka-sawamura.png"
   alt: "Haruka Sawamura"
 ---
 

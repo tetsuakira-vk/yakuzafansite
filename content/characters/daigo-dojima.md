@@ -6,7 +6,7 @@ tags: ["Daigo", "Sixth Chairman", "Tojo Clan", "Dojima Family", "Recurring"]
 categories: ["Characters"]
 summary: "The Sixth Chairman of the Tojo Clan. Sohei Dojima's son. A man who inherited a throne he didn't want and spent his career trying to be worthy of it."
 cover:
-  image: "/images/characters/daigo-dojima.webp"
+  image: "images/characters/daigo-dojima.webp"
   alt: "Daigo Dojima"
 ---
 
