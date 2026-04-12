@@ -1,0 +1,33 @@
+{{- define "main" }}
+
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . | markdownify }}</div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="md-content">{{ .Content }}</div>
+{{- end }}
+
+<div class="character-roster">
+  {{- range .Pages.ByParam "weight" }}
+  <a class="character-card" href="{{ .Permalink }}">
+    {{- with .Params.cover.image }}
+    <div class="character-card-img">
+      <img src="{{ . | absURL }}" alt="{{ $.Title }}" loading="lazy">
+    </div>
+    {{- end }}
+    <div class="character-card-body">
+      <h3 class="character-card-name">{{ .Title }}</h3>
+      {{- with .Summary }}
+      <p class="character-card-summary">{{ . | plainify | truncate 80 }}</p>
+      {{- end }}
+    </div>
+  </a>
+  {{- end }}
+</div>
+
+{{- end }}
