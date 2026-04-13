@@ -2,6 +2,7 @@ baseURL = "https://tetsuakira-vk.github.io/yakuzafansite/"
 languageCode = "en-us"
 title = "Ryu Ga Gotoku Archive"
 theme = "PaperMod"
+googleAnalytics = "G-G6NGMMCRBM"
 
 [pagination]
   pagerSize = 10
